@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: org.luxoft.vowelscounter.app.ApplicationIntegrationTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.076 s - in org.luxoft.vowelscounter.app.ApplicationIntegrationTest

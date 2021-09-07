@@ -1,0 +1,8 @@
+org/luxoft/vowelscounter/source/WordSource.class
+org/luxoft/vowelscounter/report/FileReporter.class
+org/luxoft/vowelscounter/app/Application.class
+org/luxoft/vowelscounter/source/FileSource.class
+org/luxoft/vowelscounter/report/Reporter.class
+org/luxoft/vowelscounter/AverageVowels.class
+org/luxoft/vowelscounter/VowelsCounter.class
+org/luxoft/vowelscounter/Word.class

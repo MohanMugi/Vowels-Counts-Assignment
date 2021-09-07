@@ -1,0 +1,5 @@
+org/luxoft/vowelscounter/app/ApplicationTest.class
+org/luxoft/vowelscounter/VowelsCounterTest.class
+org/luxoft/vowelscounter/app/ApplicationIntegrationTest.class
+org/luxoft/vowelscounter/source/FileSourceTest.class
+org/luxoft/vowelscounter/report/FileReporterTest.class
